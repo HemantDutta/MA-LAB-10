@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MA-LAB-10</string>
+    <string name="gym_management_system">Gym Management System</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="user_management">User Management</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_subscription_duration">Enter Subscription Duration</string>
+    <string name="add_user">Add User</string>
+    <string name="name">Name</string>
+    <string name="subscription_details">Subscription Details</string>
+    <string name="view_all">View All</string>
+    <string name="id">ID</string>
+    <string name="delete_users">Delete Users</string>
+    <string name="delete">Delete</string>
+    <string name="delete_user">Delete User</string>
+    <string name="update_user">Update User</string>
+    <string name="enter_user_id">Enter User ID</string>
+    <string name="update">Update</string>
+</resources>
